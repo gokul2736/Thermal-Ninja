@@ -22,7 +22,6 @@ It tracks your system's temperatures, learns your usage patterns, and provides *
 - 🧠 **Behavioral Learning**: Adapts to user’s workload habits.
 - 🛡️ **Dead Man’s Switch** (optional future): Emergency shutdown on critical overheating.
 
----
 
 ## 🛠️ Planned Features
 
